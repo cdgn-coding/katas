@@ -3,8 +3,8 @@
 ## Consigna
 
 Los científicos de la Comisión Nacional de Actividades Espaciales (CONAE) lograron mapear la superficie de marte mediante fotografías tomadas 
-con telescopios y estimaciones de los relieves. El equipo de CONAE quiere desplegar un robot autónomo en el planeta marciano, el proyecto se llama Bruno Mars. Se te solicita retomar el [robot marciano](https://github.com/cdgn-coding/katas/blob/main/Robot%20marciano.md) 
-desarrollado previamente y brindarle la inteligencia de descubrir el camino entre dos puntos de marte.
+con telescopios y estimaciones de los relieves. El equipo de CONAE quiere desplegar un robot inteligente en el planeta marciano, el proyecto se llama Bruno Mars. Se te solicita retomar el [robot marciano](https://github.com/cdgn-coding/katas/blob/main/Robot%20marciano.md) 
+desarrollado previamente y brindarle la capacidad de descubrir el camino entre dos puntos de marte.
 
 * El robot se encuentra en alguna posición (x<sub>0</sub>, y<sub>0</sub>)
 * Se le da al robot la posición de destino (x<sub>f</sub>, y<sub>f</sub>) y debe indicar si encontró algún camino.
