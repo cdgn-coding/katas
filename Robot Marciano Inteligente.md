@@ -17,13 +17,13 @@ Se puede mantener la interface de construcción `const rover = new MarsRover(loc
 al dispositivo, por ejemplo `const [reached, path] = rover.reach([x, y]`, donde `reached` indica si encontró el camino y `path` es la secuencia de comandos
 desde el inicio al destino.
 
-## Nivel 3
+## Nivel 4
 
 Por los resultados que están obteniendo en las estimaciones del relieve marciano, los científicos de la CONAE están interesados 
 en hacer una base de datos de caminos óptimos en marte para poder ahorrar combustible en futuras exploraciones.
 Se te pide que el robot sea capaz de encontrar el camino más corto entre (x<sub>0</sub>, y<sub>0</sub>) y (x<sub>f</sub>, y<sub>f</sub>).
 
-## Nivel 4
+## Nivel 5
 
 Los científicos de la CONAE encontraron la posibilidad de existencia de minerales valiosos en marte. Se debe agregar al robot
 la capacidad de explorar la superficie del planeta para encontrar la posición del mineral especificado,
