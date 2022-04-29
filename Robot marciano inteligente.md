@@ -28,4 +28,5 @@ Se te pide que el robot sea capaz de encontrar el camino más corto entre (x<sub
 Los científicos de la CONAE encontraron la posibilidad de existencia de minerales valiosos en marte. Se debe agregar al robot
 la capacidad de explorar la superficie del planeta para encontrar la posición del mineral especificado,
 este debe indicar si encontró algún camino y si es así, dar el camino mas corto como secuencia de comandos.
-La interface puede ser parecida a la anterior, por ejemplo `const [reached, path] = rover.find(mineral)`
+La interface puede ser parecida a la anterior, por ejemplo `const [reached, path] = rover.find(mineral)`.
+La API debe recibir los minerales valiosos en el mapa del planeta.
